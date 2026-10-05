@@ -28,7 +28,7 @@ I'm looking for an **internship in robotics software or industrial automation**.
 
 ## 🔭 What I'm working on right now
 
-> 🧠 **Bachelor's thesis (in progress)** at UC3M's **Social Robotics Lab**: working with the social robot **Mini** so it can adapt its activity to the user's affective state, detected through camera and voice.
+> 🧠 **Bachelor's thesis (in progress)** at UC3M's **Social Robotics Lab**: working with the social robot **Mini** so it can adapt its activity to the user's affective state.
 > 🛠️ Built on **Linux · ROS2 · GitLab**
 
 ## 🧰 Tech stack
